@@ -1,0 +1,41 @@
+body {
+	font-family:"",sans-serif;
+	font-size:16px
+	line-height:1.5px;
+	background: #eef
+	
+	
+}
+header{
+	font-family:'montserrat',sans-serif;
+	font-size:72px;
+	color:black;
+	background-image:url("imagg.jpg");
+	text-align:center;
+	text-transform:uppercase;
+	
+}
+image{
+	width:11.8%;
+	float:right;
+	clear:both;
+	
+	
+}
+article, aside, footer, header, menu, nav, section { 
+	display: block; 
+}
+article,section{
+	margin:20px;
+}
+text{
+	margin:5px;
+}
+image, nav, texts, aside{
+	padding:1px;
+}
+footer{
+	text-align:center;
+	color:white;
+	background-color:gray;
+}
